@@ -1,0 +1,29 @@
+{
+  "appName": {
+    "message": "Rivoli QR-Gen",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "​​Generador de Código QR desde url de pestaña o desde el enlace", 
+    "description":"The description of the application, displayed in the web store."
+  },
+  "notifTxt": {
+    "message": "Captura con tu móvil!", 
+    "description":"Notification popup exhibition text."
+  },
+  "optionsTxt": {
+    "message": "Registro de generación...", 
+    "description":"Notification popup exhibition text."
+  },
+  "historyTxt": {
+    "message": "Últimas códigos QR generados (máximo = 20):", 
+    "description":"Notification popup exhibition text."
+  },
+  "nenhumaUrl": {
+    "message": "No hay QR generado en el histórico!", 
+    "description":"Notification popup exhibition text."
+  },
+  "btnLimpa": {
+    "message": "Borrar histórico"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "appName": {
+    "message": "Rivoli QR-Gen",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "QR Code generating from tab's url or from link", 
+    "description":"The description of the application, displayed in the web store."
+  },
+  "notifTxt": {
+    "message": "Capture this!", 
+    "description":"Notification popup exhibition text."
+  },
+  "optionsTxt": {
+    "message": "Check generation history...", 
+    "description":"Notification popup exhibition text."
+  },
+  "historyTxt": {
+    "message": "Last generated QR codes (max = 20):", 
+    "description":"Notification popup exhibition text."
+  },
+  "nenhumaUrl": {
+    "message": "There is no generation history!", 
+    "description":"Notification popup exhibition text."
+  },
+  "btnLimpa": {
+    "message": "Clear history"
+  }
+}
